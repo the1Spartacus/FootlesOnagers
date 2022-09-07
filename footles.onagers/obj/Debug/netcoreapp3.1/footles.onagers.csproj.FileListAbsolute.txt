@@ -1,0 +1,10 @@
+C:\Users\Thulani\Downloads\footles.onagers\bin\Debug\netcoreapp3.1\footles.onagers.deps.json
+C:\Users\Thulani\Downloads\footles.onagers\bin\Debug\netcoreapp3.1\footles.onagers.dll
+C:\Users\Thulani\Downloads\footles.onagers\bin\Debug\netcoreapp3.1\footles.onagers.pdb
+C:\Users\Thulani\Downloads\footles.onagers\obj\Debug\netcoreapp3.1\footles.onagers.csproj.AssemblyReference.cache
+C:\Users\Thulani\Downloads\footles.onagers\obj\Debug\netcoreapp3.1\footles.onagers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thulani\Downloads\footles.onagers\obj\Debug\netcoreapp3.1\footles.onagers.AssemblyInfoInputs.cache
+C:\Users\Thulani\Downloads\footles.onagers\obj\Debug\netcoreapp3.1\footles.onagers.AssemblyInfo.cs
+C:\Users\Thulani\Downloads\footles.onagers\obj\Debug\netcoreapp3.1\footles.onagers.csproj.CoreCompileInputs.cache
+C:\Users\Thulani\Downloads\footles.onagers\obj\Debug\netcoreapp3.1\footles.onagers.dll
+C:\Users\Thulani\Downloads\footles.onagers\obj\Debug\netcoreapp3.1\footles.onagers.pdb
